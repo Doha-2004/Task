@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(0, 191, 255, 0.25);
+}
+#guessInput,button{
+    padding: 2px;
+}
+#p1{
+    padding-top: 60px;
+    font-size: x-large;
+}
+
+table {
+
+    width: 50%;
+    border:50px black;
+    margin: 20px ;
+    margin-left: 420px;
+}
